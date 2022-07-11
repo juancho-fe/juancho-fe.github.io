@@ -4,6 +4,6 @@
 
 ## Current Projects:
 
-[Fire Emblem 8 Engine](https://juancho-fe.github.io/fe8-engine/)
+[Project: Cinders](https://juancho-fe.github.io/fe8-engine/), a Fire Emblem 8 Engine.
 
 
